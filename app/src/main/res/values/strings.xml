@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabExam03</string>
+    <string name="title01">BIKE FEVER</string>
+    <string name="title02">SPECIAL BIKE SIMULATOR</string>
+    <string name="footerText">Copyright @2024 MobileX | All Right Reserved | Powered by BREngines</string>
+    <string name="playBtn">Play New Game</string>
+    <string name="msg">Your bike is ready now!</string>
+    <string name="highScoreBtn">Load High Score</string>
+    <string name="scoreText01">HIGH SCORE:</string>
+    <string name="scoreText">YOUR SCORE</string>
+    <string name="saveBtn">Save Score</string>
+    <string name="homeBtn">Back to Home</string>
+</resources>
